@@ -78,7 +78,7 @@ namespace RogersLab4
 
         private void radMexico_CheckedChanged(object sender, EventArgs e)
         {
-            ResetTrip();
+            SetFlight();
         }
 
         private void btnBook_Click(object sender, EventArgs e)
@@ -92,7 +92,7 @@ namespace RogersLab4
             int People;
             bool validPeople;
             double Price;
-            string Applied;
+            string Applied = "";
 
             //Location
             string Location = "";
@@ -168,7 +168,7 @@ namespace RogersLab4
                 }
 
                 grpTripInformation.Show();
-                lblDisplay.Text = "Booked by Noah Rogers\n\n" +
+            lblDisplay.Text = "Booked by Noah Rogers\n\n" +
                                   "People: " + People.ToString("D2") +
                                   "\nLocation: " + Location + "\n"
                                   + Applied + "\n"
@@ -180,7 +180,7 @@ namespace RogersLab4
                 switch (People)
                 {
                     case 1: case 3:
-                        DisplayMessage("Special when booking single or triple.\nBOGO Special - Call 555-1212 to receive another person free!", "Limited Time Offer");
+                        MessageBox.Show("Special when booking single or triple.\nBOGO Special - Call 555-1212 to receive another person free!", "Limited Time Offer");
                         break;
 
                 }
