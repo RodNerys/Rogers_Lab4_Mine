@@ -1,0 +1,22 @@
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\bin\Debug\RogersLab4.exe.config
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\bin\Debug\RogersLab4.exe
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\bin\Debug\RogersLab4.pdb
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\obj\Debug\RogersLab4.csproj.AssemblyReference.cache
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\obj\Debug\RogersLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\obj\Debug\RogersLab4.Form1.resources
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\obj\Debug\RogersLab4.Properties.Resources.resources
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\obj\Debug\RogersLab4.csproj.GenerateResource.cache
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\obj\Debug\RogersLab4.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\obj\Debug\RogersLab4.exe
+C:\Users\Noah\Documents\School\Introduction to Programming\Lab4\RogersLab4\RogersLab4\obj\Debug\RogersLab4.pdb
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\obj\Debug\RogersLab4.csproj.AssemblyReference.cache
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\obj\Debug\RogersLab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\obj\Debug\RogersLab4.Form1.resources
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\obj\Debug\RogersLab4.Properties.Resources.resources
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\obj\Debug\RogersLab4.csproj.GenerateResource.cache
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\obj\Debug\RogersLab4.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\obj\Debug\RogersLab4.exe
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\obj\Debug\RogersLab4.pdb
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\bin\Debug\RogersLab4.exe.config
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\bin\Debug\RogersLab4.exe
+C:\Users\Noah\Documents\School\Development Tools\A4\Rogers_Lab4_Mine\RogersLab4\bin\Debug\RogersLab4.pdb
